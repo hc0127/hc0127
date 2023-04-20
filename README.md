@@ -8,7 +8,6 @@
 
 ## My Skill Set
 
-<table>
   <tr>
     <td valign="top">
       <h3>Frontend</h3>
@@ -507,7 +506,6 @@
       </div>
     </td>
   </tr>
-</table>
 
 <br />
 
