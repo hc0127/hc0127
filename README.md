@@ -8,6 +8,7 @@
 
 ## My Skill Set
 
+<table>
   <tr>
     <td valign="top">
       <h3>Frontend</h3>
@@ -137,8 +138,6 @@
         /></a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>Backend</h3>
       <div align="center">
@@ -316,8 +315,6 @@
         /></a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>DevOps & CMS</h3>
       <div align="center">
@@ -435,8 +432,6 @@
         /></a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>Mobile</h3>
       <div align="center">
@@ -506,6 +501,7 @@
       </div>
     </td>
   </tr>
+</table>
 
 <br />
 
@@ -516,16 +512,17 @@
   <a href="https://github.com/heraclessiiz/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=heraclessiiz&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="HERACLES SIIZ's Language stats" />
   </a>
-  <!-- Dark Mode -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=heraclessiiz&show_icons=true&count_private=true&hide_border=true"
+    align="center"
+  />
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
   <a href="https://github.com/heraclessiiz/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=heraclessiiz&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="HERACLES SIIZ's Language stats" />
   </a>
-</div>
-
-
-## Github Stats 2
-
-<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=heraclessiiz&show_icons=true&count_private=true&hide_border=true"
     align="center"
