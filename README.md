@@ -138,6 +138,8 @@
         /></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>Backend</h3>
       <div align="center">
@@ -315,6 +317,8 @@
         /></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>DevOps & CMS</h3>
       <div align="center">
@@ -432,6 +436,8 @@
         /></a>
       </div>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>Mobile</h3>
       <div align="center">
