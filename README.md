@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h3>Frontend</h3>
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
@@ -138,7 +138,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h3>Backend</h3>
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
@@ -315,7 +315,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h3>DevOps & CMS</h3>
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
@@ -432,7 +432,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <h3>Mobile</h3>
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
