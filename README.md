@@ -73,7 +73,7 @@
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-            alt="JavaScript"
+            alt="TypeScript"
             height="50"
         /></a>
         <a href="https://www.chartjs.org/" target="_blank"
@@ -111,22 +111,6 @@
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/nuxt.png"
             alt="Nuxt JS"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
-        <a
-          href="https://www.adobe.com/in/products/indesign.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg"
-            alt="Adobe InDesign"
             height="50"
         /></a>
         <a href="https://sass-lang.com/" target="_blank"
@@ -264,34 +248,6 @@
             alt="MySQL"
             height="50"
         /></a>
-        <a href="https://redis.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
-            alt="Redis"
-            height="50"
-        /></a>
-        <a href="https://opencv.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg"
-            alt="OpenCV"
-            height="50"
-        /></a>
-        <a href="https://www.electronjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/electron-original.svg"
-            alt="Electron"
-            height="50"
-        /></a>
-        <a href="https://www.ruby-lang.org/en/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg"
-            alt="Ruby"
-            height="50"
-        /></a>
         <a href="https://nuxtjs.org/" target="_blank"
           ><img
             style="margin: 10px"
@@ -304,13 +260,6 @@
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/django-original.svg"
             alt="Django"
-            height="50"
-        /></a>
-        <a href="https://rubyonrails.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg"
-            alt="Ruby on Rails"
             height="50"
         /></a>
       </div>
@@ -332,13 +281,6 @@
             alt="GCP"
             height="50"
         /></a>
-        <a href="https://kubernetes.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
-            alt="Kubernetes"
-            height="50"
-        /></a>
         <a href="https://www.linux.org/" target="_blank"
           ><img
             style="margin: 10px"
@@ -351,13 +293,6 @@
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
             alt="Git"
-            height="50"
-        /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-            alt="Bash"
             height="50"
         /></a>
         <a href="https://graphql.org/" target="_blank"
@@ -381,39 +316,11 @@
             alt="Firebase"
             height="50"
         /></a>
-        <a href="https://gulpjs.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg"
-            alt="gulp.js"
-            height="50"
-        /></a>
-        <a href="https://www.docker.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
-            alt="Docker"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
         <a href="https://www.apachefriends.org/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/xampp.png"
             alt="XAMPP"
-            height="50"
-        /></a>
-        <a href="https://woocommerce.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
-            alt="WooCommerce"
             height="50"
         /></a>
         <a href="https://webpack.js.org/" target="_blank"
@@ -440,13 +347,6 @@
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg"
             alt="Dart"
-            height="50"
-        /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
-            alt="Tailwind CSS"
             height="50"
         /></a>
         <a href="https://unity.com/" target="_blank"
