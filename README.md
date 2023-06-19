@@ -1,16 +1,8 @@
-<div align="center">
-  <img
-    src="./code.gif"
-    align="center"
-    style="width: 70%"
-  />
-</div>
-
 ## My Skill Set
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3>Frontend</h3>
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
@@ -122,7 +114,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top">
+    <td valign="top"  width="25%">
       <h3>Backend</h3>
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
@@ -264,7 +256,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top">
+    <td valign="top"  width="25%">
       <h3>DevOps & CMS</h3>
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
@@ -339,7 +331,7 @@
         /></a>
       </div>
     </td>
-    <td valign="top">
+    <td valign="top"  width="25%">
       <h3>Mobile</h3>
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
@@ -402,32 +394,4 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-## Github Stats 1
-
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/heraclessiiz/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=heraclessiiz&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="HERACLES SIIZ's Language stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/heraclessiiz/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=heraclessiiz&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="HERACLES SIIZ's Language stats" />
-</a>
-</div>
-
-## Github Stats 2
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=heraclessiiz&show_icons=true&count_private=true&hide_border=true"
-    align="center"
-  />
-</div>
-
 <br />
