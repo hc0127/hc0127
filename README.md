@@ -53,5 +53,5 @@
 <a href="https://firebase.google.com/" target="_blank" ><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" width="50" /></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=heraclessiiz&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=heraclessiiz&theme=chartreuse-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=heraclessiiz\&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=heraclessiiz&theme=chartreuse-dark&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/wakatime?username=heracles\&layout=compact)
