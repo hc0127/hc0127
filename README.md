@@ -56,5 +56,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=heraclessiiz&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heraclessiiz&theme=chartreuse-dark&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heraclessiiz&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=heracles\&layout=compact)
