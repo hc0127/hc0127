@@ -45,4 +45,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=heraclessiiz&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heraclessiiz&theme=chartreuse-dark&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/wakatime?username=heracles\&layout=compact)
+
+---
+### Wakatime
+
+<a href="https://wakatime.com/@d98bbc46-d96b-4611-b0b4-3956f04fcaa0"> <img src="https://wakatime.com/badge/user/d98bbc46-d96b-4611-b0b4-3956f04fcaa0.svg?style=social" alt="Total time coded since Apr 21 2023"/> </a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HERACLES/b5815538-6d11-4f3a-b3c1-b74cfa6fc197.png" /></a>
+
+---
