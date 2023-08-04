@@ -49,6 +49,6 @@
 ---
 ### Wakatime
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HERACLES/b5815538-6d11-4f3a-b3c1-b74cfa6fc197.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HERACLES/de040808-c0d1-4ee8-b8ce-f7a91e657d23.png" /></a>
 
 ---
