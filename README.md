@@ -6,7 +6,7 @@
 ---
 # Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=heracles0127&theme=chartreuse-dark&hide_border=false&count_private=true&show_icons=true])
+![](https://github-readme-stats.vercel.app/api?username=heracles0127&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=true])
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heracles0127&theme=chartreuse-dark&hide_border=false)
 
 
