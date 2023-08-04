@@ -43,12 +43,16 @@
 <a href="https://www.mongodb.com/" target="_blank" ><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"  height="50" width="50"/></a>
 <a href="https://firebase.google.com/" target="_blank" ><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" width="50" /></a>
 
-![](https://github-readme-stats.vercel.app/api?username=heracles0127&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
+---
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=heracles0127&theme=chartreuse-dark&hide_border=false&count_private=true&show_icons=true])
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heracles0127&theme=chartreuse-dark&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heracles0127&langs_count=8&theme=radical)
 
 ---
 ### Wakatime
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HERACLES/de040808-c0d1-4ee8-b8ce-f7a91e657d23.png" /></a>
+<a href="https://wakatime.com/@HERACLES"><img src="https://wakatime.com/share/@HERACLES/de040808-c0d1-4ee8-b8ce-f7a91e657d23.png" /></a>
 
 ---
