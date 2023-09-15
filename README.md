@@ -2,17 +2,9 @@
 
 ---
 
-# Github Stats
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=heracles0127&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@heracles's github-readme-streak-stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=heracles0127&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@heracles's github-readme-stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heracles0127&layout=donut&theme=chartreuse-dark" />
+<a href="https://wakatime.com/@heracles"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=heracles&theme=gotham&hide_border=true&layout=donut&hide_title=false&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heracles0127&layout=pie&theme=chartreuse-dark" width="38%"/>
 </p>
-
----
-
-# Wakatime
-
-<a href="https://wakatime.com/@HERACLES"><img src="https://wakatime.com/share/@HERACLES/9085a275-636c-48a3-a98a-61d8c22f1390.png" /></a>
-
----
